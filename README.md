@@ -61,17 +61,6 @@ Desde nossa fundação, já participamos de **diversos projetos acadêmicos e co
 
 ---
 
-## 📫 Contato
-
-Quer saber mais ou trabalhar conosco?
-
-- 🌍 Site: [www.startupjunior.com](https://www.startupjunior.com)  
-- 💌 E-mail: contato@startupjunior.com  
-- 💼 LinkedIn: [Startup Júnior](https://linkedin.com/company/startupjunior)  
-- 💬 Instagram: [@startupjunior](https://instagram.com/startupjunior)
-
----
-
 ## 🧾 Licença
 
 Este repositório é distribuído sob a licença **MIT**.  
